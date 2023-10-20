@@ -29,7 +29,8 @@
 
 ## 🛠 工具与资源
 
-- [资源/工具名](https://github.com/)  - 简短描述
+- [Text Generation Web UI](https://github.com/oobabooga/text-generation-webui)  - 通过网页调用LLM进行文本生成和对话，支持多种LLM
+- [ExLlamaV2](https://github.com/turboderp/exllamav2) - 对参数较多的LLM（如70B的大模型）进行混合精度量化，以在消费级GPU（如24G显存的RTX4090）上运行
 
 (待添加更多...)
 
